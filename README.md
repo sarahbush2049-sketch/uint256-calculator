@@ -7,7 +7,7 @@
 If you've ever been confused by `e18` math, JS float errors, or Solidity `uint256` calculations — this tool is built for you.
 
 ---
-![uint256 calculator screenshot]([https://uint256.xyz/screenshot.png](https://raw.githubusercontent.com/sarahbush2049-sketch/uint256-calculator/refs/heads/main/Screenshot%202026-01-11%20at%2020.29.51.png) "uint256.xyz calculator")
+![uint256 calculator screenshot](https://raw.githubusercontent.com/sarahbush2049-sketch/uint256-calculator/refs/heads/main/Screenshot%202026-01-11%20at%2020.29.51.png "uint256.xyz calculator")
 
 https://raw.githubusercontent.com/sarahbush2049-sketch/uint256-calculator/refs/heads/main/Screenshot%202026-01-11%20at%2020.29.51.png
 
